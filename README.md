@@ -1,5 +1,5 @@
 
-# Just a joke
+# Will you be my valentine? 
 
 This project offers an interactive application focused on JavaScript functionalities, delivering a dynamic and engaging user experience.
 
@@ -11,4 +11,4 @@ This project offers an interactive application focused on JavaScript functionali
 
 ## How to Access
 
-[Click here to view](https://gamaalice.github.io/playingjs/)) 
+[Click here to view](https://gamaalice.github.io/playingjs/) 
