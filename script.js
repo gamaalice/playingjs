@@ -47,5 +47,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "theyespages.html";
+    window.location.href = "TheYesPage.html";
 }
