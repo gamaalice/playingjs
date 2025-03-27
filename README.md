@@ -1,5 +1,5 @@
 
-# Will You Be My Valentine?
+# Just a joke
 
 This project offers an interactive application focused on JavaScript functionalities, delivering a dynamic and engaging user experience.
 
