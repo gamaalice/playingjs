@@ -11,4 +11,4 @@ This project offers an interactive application focused on JavaScript functionali
 
 ## How to Access
 
-[Click here to view](to access the project) 
+[Click here to view](https://gamaalice.github.io/playingjs/)) 
